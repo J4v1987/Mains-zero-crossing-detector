@@ -1,7 +1,7 @@
 # Mains-zero-crossing-detector
 <h3>Arduino Nano as Mains Zero-Crossing Detection Tool.</h3>
 <br></br>
-![IMG_20250506_184608](https://github.com/user-attachments/assets/2701556e-1a41-4b27-a7f5-dc53eff6dc48)
+![IMG_20250506_184608](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/IMG_20250506_184608.jpg)
 <br></br>
 ![20250506 - zero-crossing tool](https://github.com/user-attachments/assets/f0cd21ee-68f3-4c42-b6bd-8ac4ae1d6990)
 <br></br>
