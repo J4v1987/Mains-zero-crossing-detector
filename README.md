@@ -3,7 +3,7 @@
 <br></br>
 ![IMG_20250506_184608](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/IMG_20250506_184608.jpg)
 <br></br>
-![20250506 - zero-crossing tool](https://github.com/user-attachments/assets/f0cd21ee-68f3-4c42-b6bd-8ac4ae1d6990)
+![20250506 - zero-crossing tool](https://github.com/J4v1987/Mains-zero-crossing-detector/blob/main/Media/20250506%20-%20zero-crossing%20tool.gif)
 <br></br>
 <p>Full-wave rectifies mains signal and compares it to a near-ground VDC signal to produce a 'zero' crossing signaling pulse.</p>
 <p>Comparison yields a current-sinking pulse, normally high.</p>
